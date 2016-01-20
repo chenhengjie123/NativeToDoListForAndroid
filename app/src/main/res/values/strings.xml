@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="new_item_hint">待办事项</string>
+    <string name="add_item_button">添加</string>
+</resources>
